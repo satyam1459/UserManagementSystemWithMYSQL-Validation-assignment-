@@ -17,9 +17,10 @@ In our project [MySQL](https://www.mysql.com) and the methods involved with JpaR
 >## Project Summary
 Our project basically maintains the upcoming user information with various validation which includes- 
 * UserId
-* Name
 * UserName
-* Address
+* DOB
+* Email
 * Phone Number
+* LocalTime of entering the data
 
 You can read, read by specific id, update userName of specific userId, delete a user by their userId by api calls.
